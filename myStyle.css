@@ -1,0 +1,37 @@
+html{
+cursor:url(https://78.media.tumblr.com/4d0afff24ded0532c07de5907d4c3db2/tumblr_inline_p9m9zlFy6w1totye9_75sq.gif), auto;
+}
+
+body{
+  background-color: #dcff8c;
+  text-align: center;
+}
+
+h1{
+  color: pink;
+  font-size: 10em;
+  font-family: 'Indie Flower', cursive;
+}
+
+h2{
+  color: pink;
+  font-size: 5em;
+  font-family: 'Indie Flower', cursive;
+}
+
+.img{
+   width:270px;
+   height:270px;
+   transition: transform .2s;
+}
+
+.img:hover {
+  transform: scale(2);
+}
+
+.cursor {
+  background:gray;
+  width:100px;
+  height:100px;
+  cursor:url(https://78.media.tumblr.com/4d0afff24ded0532c07de5907d4c3db2/tumblr_inline_p9m9zlFy6w1totye9_75sq.gif), auto;
+}
