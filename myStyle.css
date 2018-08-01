@@ -28,10 +28,3 @@ h2{
 .img:hover {
   transform: scale(2);
 }
-
-.cursor {
-  background:gray;
-  width:100px;
-  height:100px;
-  cursor:url(https://78.media.tumblr.com/4d0afff24ded0532c07de5907d4c3db2/tumblr_inline_p9m9zlFy6w1totye9_75sq.gif), auto;
-}
